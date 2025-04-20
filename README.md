@@ -219,6 +219,7 @@ Le développement de l'Anti-Scam Voice Assistant a suivi une approche itérative
 
 ## Démonstration
 
+▶️ [Regarder la démo (MP4)](https://raw.githubusercontent.com/CzmilDos/anti-scam-voice-assistant/master/static/captures/demo.mp4)
 
 ### Captures d’écran
 
@@ -297,4 +298,4 @@ Ce projet est développé dans un cadre académique pour le cours "Artificial In
 
 *Projet réalisé par Czmil DOSSOU-YOVO*  
 *ESTIAM - E5 BDAI - 2024-2025*  
-*Professeur : Antoine GREA*
+*Professeur : Dr Antoine GREA*
