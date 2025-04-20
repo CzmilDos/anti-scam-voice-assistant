@@ -1,0 +1,33 @@
+# Environnement virtuel
+venv/
+env/
+.env
+
+# Fichiers Python
+__pycache__/
+build/
+dist/
+lib/
+lib64/
+parts/
+sdist/
+var/
+
+# Fichiers de Google Cloud
+*.json
+
+# Dossiers et fichiers spécifiques au projet
+/private/
+/cache/
+
+# Fichiers de l'éditeur
+.idea/
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs et bases de données
+*.log
+*.sqlite 
