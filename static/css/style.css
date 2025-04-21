@@ -302,8 +302,8 @@ body::before {
 }
 
 .profile-image {
-    width: 4.5rem;
-    height: 4.5rem;
+    width: 6rem;
+    height: 6rem;
     border-radius: 50%;
     background: var(--accent-primary);
     display: flex;
@@ -358,9 +358,9 @@ body::before {
 }
 
 .message-avatar {
-    min-width: 2.5rem;
-    width: 2.5rem;
-    height: 2.5rem;
+    min-width: 3.5rem;
+    width: 3.5rem;
+    height: 3.5rem;
     border-radius: 50%;
     margin: 0.5rem 0.75rem;
     display: flex;

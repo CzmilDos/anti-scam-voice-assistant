@@ -298,4 +298,4 @@ Ce projet est développé dans un cadre académique pour le cours "Artificial In
 
 *Projet réalisé par Czmil DOSSOU-YOVO*  
 *ESTIAM - E5 BDAI - 2024-2025*  
-*Professeur : Dr Antoine GREA*
+*Professeur : Dr. Antoine GREA*
